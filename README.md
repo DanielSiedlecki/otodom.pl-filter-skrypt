@@ -6,8 +6,8 @@
 
 ### Opis
 
-Cześć jestem Daniel i razem z dziewczyną jak to studenci poszukiwaliśmy mieszkania do wynajęcia aczkolwiek bardzo irytowało mnie to,
-że ludzie na jednym z najbardziej popularnych serwisów w Polsce jakim jest otodom.pl filtrowanie nie działa tak jakbym chciał,
+Cześć jestem Daniel i razem z dziewczyną jak to studenci poszukiwaliśmy mieszkania do wynajęcia aczkolwiek bardzo irytowało mnie to
+że, na jednym z najbardziej popularnych serwisów w Polsce jakim jest otodom.pl filtrowanie nie działa tak jakbym chciał,
 więc napisałem swoję polega ono na tym, że sumuje nam **czynsz** oraz **cene najmu** i porównuje z naszym maksymalnym budżetem który
 wpisujemy w okienku naszego skryptu.
 
