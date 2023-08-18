@@ -26,13 +26,10 @@ Na pewno w wolnym czasie napisze też wersję na OLX.pl.
 ### Uruchomienie
 
 **Krok Pierwszy:**
-
-    Do chrome pobieramy addons Tempermonkey;
+Do chrome pobieramy addons Tempermonkey;
 
 **Krok Drugi:**
-
-    Wchodzimy w niego i klikamy dodaj nowy skrypt i plik OtoDomFilter.user.js z pulpitu przeciągamy na okno w przeglądarce
+Wchodzimy w niego i klikamy dodaj nowy skrypt i plik OtoDomFilter.user.js z pulpitu przeciągamy na okno w przeglądarce
 
 **Krok Trzeci:**
-
-    Klikamy zainstaluj
+Klikamy zainstaluj
