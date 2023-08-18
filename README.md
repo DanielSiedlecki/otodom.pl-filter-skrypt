@@ -11,7 +11,7 @@ Cześć jestem Daniel i razem z dziewczyną jak to studenci poszukiwaliśmy mies
 więc napisałem swoję polega ono na tym, że sumuje nam **czynsz** oraz **cene najmu** i porównuje z naszym maksymalnym budżetem który
 wpisujemy w okienku naszego skryptu.
 
-Jeżeli w opisie jest napisane **czynsz: szukaj w opisie** traktuje go jako **0zł** i nie usuwa jeżeli sama cena najmu nie przekracza
+Jeżeli w opisie jest napisane **czynsz: szukaj w opisie** traktuje go jako **0zł** i nie usuwa ogłoszenia jeżeli sama cena najmu nie przekracza
 budżetu.
 
 Skrypt nie sprawdza promowanych ogłoszeń bo stwierdziłem, że jednak ta stronka jest bardzo potrzebna więc zostawiłem je bo uważam,
