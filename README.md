@@ -4,6 +4,10 @@
 
 ![](https://github.com/DanielSiedlecki/otodom.pl-filter-skrypt/blob/main/demo.gif)
 
+## Aktualizacja
+
+Na dzień 22.08.2023 skrypt nie działa w wolnej chwili postaram się go poprawić
+
 ### Opis
 
 Cześć jestem Daniel i razem z dziewczyną jak to studenci poszukiwaliśmy mieszkania do wynajęcia aczkolwiek bardzo irytowało mnie to
